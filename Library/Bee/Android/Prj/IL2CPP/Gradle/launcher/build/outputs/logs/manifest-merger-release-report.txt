@@ -1,0 +1,443 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+MERGED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-70:12
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\f786bce806bb997d879324651698770e\material-1.6.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\1ba045a01f2cbf3a5c8ac3fec8edfbcb\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\e481bbf7e0476bfdadaa0fa10794c033\appcompat-1.4.2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\9903abe2ff1a39cef5b31c82af5f686a\jetified-play-services-vision-20.1.3\AndroidManifest.xml:2:1-9:12
+MERGED from [:GfxPluginCardboard:] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\71234d6412b26af4abb8edbdc52910dc\jetified-GfxPluginCardboard\AndroidManifest.xml:2:1-49:12
+MERGED from [:unityLibrary:xrmanifest.androidlib] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\d5e69117ad054be4782895049f34420c\jetified-play-services-vision-common-19.1.3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\d899865e185d1fe39c14b36a6677b083\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\af0fb87e74eede655316d2dad224ffd4\jetified-play-services-flags-17.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\a75e28f2da2ac95abe51b86d7db84023\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.4.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\0d2a4aaefdfbea34610a09dad8813b1b\jetified-play-services-base-17.4.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\38f8f7aa8f51a0acc9e79e7462794eeb\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.4.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\54898a28296a15bd6c1ab50434aa234b\jetified-play-services-basement-17.4.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\2e61bc12d53dc1711e4540c4bc834e20\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\4b51dcadf348a60fbb792abbfe00cdcc\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\24aece2ca7476035bb0e6c05cfbda513\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\93d053620f200b1abffda2e8523dfadf\jetified-appcompat-resources-1.4.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\ec7edaca1d81b42c60daa5397e1de0cf\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\80c77607a876edb4ca6a6198d8cbb9b1\jetified-emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\2e866048beba2f745809ebd4c8057b12\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\f654480a229c866fab159b06a2604173\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\7979ae2aef685efa8d7e2e2e6dd25dcf\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\3665039ed2deb428346da77d6d739363\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\5a1e5c2b53b71dd41cce9b4828970d93\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\04a190483a49819d5ef4843c0467c9c1\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\2bdb6a3767905226a5b725b4b0e2e946\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\7e62401450a642614614fb9ca145f85a\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\913b3fa7c1c4a9e28c7da4070723c34e\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\2faa08c181e42802257382149a3c8ba0\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\e30546cb50a0ffbaabe61234ea31a3b2\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\1de971a63104cd43f0a9d73781737383\core-1.7.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\d9171090ac93e42b150a88cc9720fc72\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\e5ff2197a7cef6b196d819064205f2bd\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\27c9c1411a57c453b1a1ef7a8de2715c\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\1278a669705643fa371cad4f4a79b414\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\9b7927d4a2f6aabca56ae711676b1602\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\a9370f0e82d553cc7df974c08b470460\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\2423d758b4386eff463e4cbe46bc748b\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\eaa07e8b7ccb91ef27e8238fc67607bc\jetified-startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\74d62788c5455ac1a5b9b2ba5aee5e0f\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\35cde29e6ecf81f9743061561efeb213\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\ab14e0fd1a78a15c092d132eeb726e0c\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\a2ebf7f79c8255ff830047195d5c25cf\lifecycle-runtime-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\3f08a3619b334030253df63343c2e184\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\fa13b0c35081ee28ed785258a16ed650\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\ad0513bef8b5033cd9adfdf23064ffc8\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\7d9ea0ca030007f47e2ca42049a61fef\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\86d8f1b55e7d51c8b9428178a1e53034\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\b769f41c026b934170e7388efff96d5f\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+	package
+		ADDED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:70-121
+		INJECTED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+		INJECTED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:122-168
+	android:versionCode
+		INJECTED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+		INJECTED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:169-209
+supports-screens
+ADDED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:135-160
+application
+ADDED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:3-83
+MERGED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:29:5-68:19
+MERGED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:29:5-68:19
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\f786bce806bb997d879324651698770e\material-1.6.1\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\f786bce806bb997d879324651698770e\material-1.6.1\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\1ba045a01f2cbf3a5c8ac3fec8edfbcb\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\1ba045a01f2cbf3a5c8ac3fec8edfbcb\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\9903abe2ff1a39cef5b31c82af5f686a\jetified-play-services-vision-20.1.3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\9903abe2ff1a39cef5b31c82af5f686a\jetified-play-services-vision-20.1.3\AndroidManifest.xml:7:5-20
+MERGED from [:GfxPluginCardboard:] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\71234d6412b26af4abb8edbdc52910dc\jetified-GfxPluginCardboard\AndroidManifest.xml:22:5-47:19
+MERGED from [:GfxPluginCardboard:] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\71234d6412b26af4abb8edbdc52910dc\jetified-GfxPluginCardboard\AndroidManifest.xml:22:5-47:19
+MERGED from [:unityLibrary:xrmanifest.androidlib] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-12:19
+MERGED from [:unityLibrary:xrmanifest.androidlib] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-12:19
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\d5e69117ad054be4782895049f34420c\jetified-play-services-vision-common-19.1.3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\d5e69117ad054be4782895049f34420c\jetified-play-services-vision-common-19.1.3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\d899865e185d1fe39c14b36a6677b083\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\d899865e185d1fe39c14b36a6677b083\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\a75e28f2da2ac95abe51b86d7db84023\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\a75e28f2da2ac95abe51b86d7db84023\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.4.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\0d2a4aaefdfbea34610a09dad8813b1b\jetified-play-services-base-17.4.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.4.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\0d2a4aaefdfbea34610a09dad8813b1b\jetified-play-services-base-17.4.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\38f8f7aa8f51a0acc9e79e7462794eeb\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\38f8f7aa8f51a0acc9e79e7462794eeb\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.4.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\54898a28296a15bd6c1ab50434aa234b\jetified-play-services-basement-17.4.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.4.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\54898a28296a15bd6c1ab50434aa234b\jetified-play-services-basement-17.4.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\80c77607a876edb4ca6a6198d8cbb9b1\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\80c77607a876edb4ca6a6198d8cbb9b1\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\1de971a63104cd43f0a9d73781737383\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\1de971a63104cd43f0a9d73781737383\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\a9370f0e82d553cc7df974c08b470460\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\a9370f0e82d553cc7df974c08b470460\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\2423d758b4386eff463e4cbe46bc748b\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\2423d758b4386eff463e4cbe46bc748b\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\eaa07e8b7ccb91ef27e8238fc67607bc\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\eaa07e8b7ccb91ef27e8238fc67607bc\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:29:18-50
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\1de971a63104cd43f0a9d73781737383\core-1.7.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:16-48
+	android:icon
+		ADDED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:49-80
+uses-sdk
+INJECTED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+INJECTED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+MERGED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:8:5-10:41
+MERGED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\f786bce806bb997d879324651698770e\material-1.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\f786bce806bb997d879324651698770e\material-1.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\1ba045a01f2cbf3a5c8ac3fec8edfbcb\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\1ba045a01f2cbf3a5c8ac3fec8edfbcb\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\e481bbf7e0476bfdadaa0fa10794c033\appcompat-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\e481bbf7e0476bfdadaa0fa10794c033\appcompat-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\9903abe2ff1a39cef5b31c82af5f686a\jetified-play-services-vision-20.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\9903abe2ff1a39cef5b31c82af5f686a\jetified-play-services-vision-20.1.3\AndroidManifest.xml:5:5-44
+MERGED from [:GfxPluginCardboard:] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\71234d6412b26af4abb8edbdc52910dc\jetified-GfxPluginCardboard\AndroidManifest.xml:5:5-7:41
+MERGED from [:GfxPluginCardboard:] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\71234d6412b26af4abb8edbdc52910dc\jetified-GfxPluginCardboard\AndroidManifest.xml:5:5-7:41
+MERGED from [:unityLibrary:xrmanifest.androidlib] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:unityLibrary:xrmanifest.androidlib] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\d5e69117ad054be4782895049f34420c\jetified-play-services-vision-common-19.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\d5e69117ad054be4782895049f34420c\jetified-play-services-vision-common-19.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\d899865e185d1fe39c14b36a6677b083\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\d899865e185d1fe39c14b36a6677b083\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\af0fb87e74eede655316d2dad224ffd4\jetified-play-services-flags-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\af0fb87e74eede655316d2dad224ffd4\jetified-play-services-flags-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\a75e28f2da2ac95abe51b86d7db84023\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\a75e28f2da2ac95abe51b86d7db84023\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.4.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\0d2a4aaefdfbea34610a09dad8813b1b\jetified-play-services-base-17.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.4.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\0d2a4aaefdfbea34610a09dad8813b1b\jetified-play-services-base-17.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\38f8f7aa8f51a0acc9e79e7462794eeb\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\38f8f7aa8f51a0acc9e79e7462794eeb\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.4.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\54898a28296a15bd6c1ab50434aa234b\jetified-play-services-basement-17.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.4.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\54898a28296a15bd6c1ab50434aa234b\jetified-play-services-basement-17.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\2e61bc12d53dc1711e4540c4bc834e20\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\2e61bc12d53dc1711e4540c4bc834e20\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\4b51dcadf348a60fbb792abbfe00cdcc\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\4b51dcadf348a60fbb792abbfe00cdcc\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\24aece2ca7476035bb0e6c05cfbda513\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\24aece2ca7476035bb0e6c05cfbda513\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\93d053620f200b1abffda2e8523dfadf\jetified-appcompat-resources-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\93d053620f200b1abffda2e8523dfadf\jetified-appcompat-resources-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\ec7edaca1d81b42c60daa5397e1de0cf\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\ec7edaca1d81b42c60daa5397e1de0cf\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\80c77607a876edb4ca6a6198d8cbb9b1\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\80c77607a876edb4ca6a6198d8cbb9b1\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\2e866048beba2f745809ebd4c8057b12\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\2e866048beba2f745809ebd4c8057b12\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\f654480a229c866fab159b06a2604173\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\f654480a229c866fab159b06a2604173\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\7979ae2aef685efa8d7e2e2e6dd25dcf\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\7979ae2aef685efa8d7e2e2e6dd25dcf\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\3665039ed2deb428346da77d6d739363\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\3665039ed2deb428346da77d6d739363\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\5a1e5c2b53b71dd41cce9b4828970d93\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\5a1e5c2b53b71dd41cce9b4828970d93\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\04a190483a49819d5ef4843c0467c9c1\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\04a190483a49819d5ef4843c0467c9c1\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\2bdb6a3767905226a5b725b4b0e2e946\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\2bdb6a3767905226a5b725b4b0e2e946\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\7e62401450a642614614fb9ca145f85a\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\7e62401450a642614614fb9ca145f85a\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\913b3fa7c1c4a9e28c7da4070723c34e\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\913b3fa7c1c4a9e28c7da4070723c34e\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\2faa08c181e42802257382149a3c8ba0\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\2faa08c181e42802257382149a3c8ba0\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\e30546cb50a0ffbaabe61234ea31a3b2\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\e30546cb50a0ffbaabe61234ea31a3b2\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\1de971a63104cd43f0a9d73781737383\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\1de971a63104cd43f0a9d73781737383\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\d9171090ac93e42b150a88cc9720fc72\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\d9171090ac93e42b150a88cc9720fc72\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\e5ff2197a7cef6b196d819064205f2bd\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\e5ff2197a7cef6b196d819064205f2bd\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\27c9c1411a57c453b1a1ef7a8de2715c\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\27c9c1411a57c453b1a1ef7a8de2715c\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\1278a669705643fa371cad4f4a79b414\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\1278a669705643fa371cad4f4a79b414\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\9b7927d4a2f6aabca56ae711676b1602\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\9b7927d4a2f6aabca56ae711676b1602\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\a9370f0e82d553cc7df974c08b470460\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\a9370f0e82d553cc7df974c08b470460\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\2423d758b4386eff463e4cbe46bc748b\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\2423d758b4386eff463e4cbe46bc748b\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\eaa07e8b7ccb91ef27e8238fc67607bc\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\eaa07e8b7ccb91ef27e8238fc67607bc\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\74d62788c5455ac1a5b9b2ba5aee5e0f\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\74d62788c5455ac1a5b9b2ba5aee5e0f\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\35cde29e6ecf81f9743061561efeb213\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\35cde29e6ecf81f9743061561efeb213\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\ab14e0fd1a78a15c092d132eeb726e0c\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\ab14e0fd1a78a15c092d132eeb726e0c\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\a2ebf7f79c8255ff830047195d5c25cf\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\a2ebf7f79c8255ff830047195d5c25cf\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\3f08a3619b334030253df63343c2e184\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\3f08a3619b334030253df63343c2e184\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\fa13b0c35081ee28ed785258a16ed650\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\fa13b0c35081ee28ed785258a16ed650\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\ad0513bef8b5033cd9adfdf23064ffc8\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\ad0513bef8b5033cd9adfdf23064ffc8\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\7d9ea0ca030007f47e2ca42049a61fef\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\7d9ea0ca030007f47e2ca42049a61fef\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\86d8f1b55e7d51c8b9428178a1e53034\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\86d8f1b55e7d51c8b9428178a1e53034\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\b769f41c026b934170e7388efff96d5f\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\b769f41c026b934170e7388efff96d5f\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+INJECTED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+uses-feature#0x00030000
+ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-54
+MERGED from [:GfxPluginCardboard:] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\71234d6412b26af4abb8edbdc52910dc\jetified-GfxPluginCardboard\AndroidManifest.xml:13:5-15:35
+MERGED from [:GfxPluginCardboard:] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\71234d6412b26af4abb8edbdc52910dc\jetified-GfxPluginCardboard\AndroidManifest.xml:13:5-15:35
+	android:glEsVersion
+		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:12:19-51
+	android:required
+		ADDED from [:GfxPluginCardboard:] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\71234d6412b26af4abb8edbdc52910dc\jetified-GfxPluginCardboard\AndroidManifest.xml:15:9-32
+uses-feature#android.hardware.vulkan.version
+ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-15:36
+	android:required
+		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:15:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:14:9-55
+uses-permission#android.permission.INTERNET
+ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:17:5-67
+MERGED from [:GfxPluginCardboard:] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\71234d6412b26af4abb8edbdc52910dc\jetified-GfxPluginCardboard\AndroidManifest.xml:19:5-67
+MERGED from [:GfxPluginCardboard:] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\71234d6412b26af4abb8edbdc52910dc\jetified-GfxPluginCardboard\AndroidManifest.xml:19:5-67
+	android:name
+		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:17:22-64
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:19:5-21:36
+	android:required
+		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:21:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:20:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:22:5-24:36
+	android:required
+		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:24:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:23:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:26:9-72
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:30:9-51:20
+MERGED from [:unityLibrary:xrmanifest.androidlib] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:10:9-11:20
+MERGED from [:unityLibrary:xrmanifest.androidlib] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:10:9-11:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:37:13-50
+	android:launchMode
+		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:35:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:34:13-48
+	android:exported
+		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:33:13-36
+	android:resizeableActivity
+		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:36:13-47
+	android:configChanges
+		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:32:13-194
+	android:theme
+		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:38:13-54
+	android:name
+		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:31:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:39:13-43:29
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:42:17-77
+	android:name
+		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:42:27-74
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:45:13-47:40
+	android:value
+		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:47:17-37
+	android:name
+		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:46:17-57
+meta-data#android.notch_support
+ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:48:13-50:40
+	android:value
+		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:50:17-37
+	android:name
+		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:49:17-53
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:53:9-55:33
+	android:value
+		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:55:13-30
+	android:name
+		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:54:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:56:9-58:36
+	android:value
+		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:58:13-33
+	android:name
+		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:57:13-47
+meta-data#unity.launch-fullscreen
+ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:59:9-61:36
+	android:value
+		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:61:13-33
+	android:name
+		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:60:13-51
+meta-data#notch.config
+ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:62:9-64:50
+	android:value
+		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:64:13-47
+	android:name
+		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:63:13-40
+meta-data#unity.auto-report-fully-drawn
+ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:65:9-67:36
+	android:value
+		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:67:13-33
+	android:name
+		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:66:13-57
+uses-permission#android.permission.CAMERA
+ADDED from [:GfxPluginCardboard:] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\71234d6412b26af4abb8edbdc52910dc\jetified-GfxPluginCardboard\AndroidManifest.xml:17:5-65
+	android:name
+		ADDED from [:GfxPluginCardboard:] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\71234d6412b26af4abb8edbdc52910dc\jetified-GfxPluginCardboard\AndroidManifest.xml:17:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:GfxPluginCardboard:] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\71234d6412b26af4abb8edbdc52910dc\jetified-GfxPluginCardboard\AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from [:GfxPluginCardboard:] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\71234d6412b26af4abb8edbdc52910dc\jetified-GfxPluginCardboard\AndroidManifest.xml:18:22-78
+uses-permission#android.permission.NFC
+ADDED from [:GfxPluginCardboard:] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\71234d6412b26af4abb8edbdc52910dc\jetified-GfxPluginCardboard\AndroidManifest.xml:20:5-62
+	android:name
+		ADDED from [:GfxPluginCardboard:] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\71234d6412b26af4abb8edbdc52910dc\jetified-GfxPluginCardboard\AndroidManifest.xml:20:22-59
+activity#com.google.cardboard.sdk.QrCodeCaptureActivity
+ADDED from [:GfxPluginCardboard:] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\71234d6412b26af4abb8edbdc52910dc\jetified-GfxPluginCardboard\AndroidManifest.xml:23:9-27:66
+	android:label
+		ADDED from [:GfxPluginCardboard:] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\71234d6412b26af4abb8edbdc52910dc\jetified-GfxPluginCardboard\AndroidManifest.xml:26:13-67
+	android:exported
+		ADDED from [:GfxPluginCardboard:] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\71234d6412b26af4abb8edbdc52910dc\jetified-GfxPluginCardboard\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [:GfxPluginCardboard:] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\71234d6412b26af4abb8edbdc52910dc\jetified-GfxPluginCardboard\AndroidManifest.xml:27:13-63
+	android:name
+		ADDED from [:GfxPluginCardboard:] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\71234d6412b26af4abb8edbdc52910dc\jetified-GfxPluginCardboard\AndroidManifest.xml:24:13-74
+activity#com.google.cardboard.sdk.HeadsetDetectionActivity
+ADDED from [:GfxPluginCardboard:] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\71234d6412b26af4abb8edbdc52910dc\jetified-GfxPluginCardboard\AndroidManifest.xml:33:9-46:20
+	android:label
+		ADDED from [:GfxPluginCardboard:] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\71234d6412b26af4abb8edbdc52910dc\jetified-GfxPluginCardboard\AndroidManifest.xml:36:13-69
+	android:exported
+		ADDED from [:GfxPluginCardboard:] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\71234d6412b26af4abb8edbdc52910dc\jetified-GfxPluginCardboard\AndroidManifest.xml:35:13-36
+	android:name
+		ADDED from [:GfxPluginCardboard:] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\71234d6412b26af4abb8edbdc52910dc\jetified-GfxPluginCardboard\AndroidManifest.xml:34:13-77
+intent-filter#action:name:android.nfc.action.NDEF_DISCOVERED+category:name:android.intent.category.DEFAULT+data:scheme:cardboard
+ADDED from [:GfxPluginCardboard:] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\71234d6412b26af4abb8edbdc52910dc\jetified-GfxPluginCardboard\AndroidManifest.xml:39:13-45:29
+action#android.nfc.action.NDEF_DISCOVERED
+ADDED from [:GfxPluginCardboard:] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\71234d6412b26af4abb8edbdc52910dc\jetified-GfxPluginCardboard\AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from [:GfxPluginCardboard:] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\71234d6412b26af4abb8edbdc52910dc\jetified-GfxPluginCardboard\AndroidManifest.xml:40:25-74
+category#android.intent.category.DEFAULT
+ADDED from [:GfxPluginCardboard:] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\71234d6412b26af4abb8edbdc52910dc\jetified-GfxPluginCardboard\AndroidManifest.xml:42:17-76
+	android:name
+		ADDED from [:GfxPluginCardboard:] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\71234d6412b26af4abb8edbdc52910dc\jetified-GfxPluginCardboard\AndroidManifest.xml:42:27-73
+data
+ADDED from [:GfxPluginCardboard:] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\71234d6412b26af4abb8edbdc52910dc\jetified-GfxPluginCardboard\AndroidManifest.xml:44:17-52
+	android:scheme
+		ADDED from [:GfxPluginCardboard:] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\71234d6412b26af4abb8edbdc52910dc\jetified-GfxPluginCardboard\AndroidManifest.xml:44:23-49
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12 reason: com.google.cardboard.sdk requested WRITE_EXTERNAL_STORAGE
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.4.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\0d2a4aaefdfbea34610a09dad8813b1b\jetified-play-services-base-17.4.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.4.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\0d2a4aaefdfbea34610a09dad8813b1b\jetified-play-services-base-17.4.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.4.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\0d2a4aaefdfbea34610a09dad8813b1b\jetified-play-services-base-17.4.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.4.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\0d2a4aaefdfbea34610a09dad8813b1b\jetified-play-services-base-17.4.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.4.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\54898a28296a15bd6c1ab50434aa234b\jetified-play-services-basement-17.4.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.4.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\54898a28296a15bd6c1ab50434aa234b\jetified-play-services-basement-17.4.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.4.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\54898a28296a15bd6c1ab50434aa234b\jetified-play-services-basement-17.4.0\AndroidManifest.xml:24:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\80c77607a876edb4ca6a6198d8cbb9b1\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\2423d758b4386eff463e4cbe46bc748b\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\2423d758b4386eff463e4cbe46bc748b\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\eaa07e8b7ccb91ef27e8238fc67607bc\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\eaa07e8b7ccb91ef27e8238fc67607bc\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\80c77607a876edb4ca6a6198d8cbb9b1\jetified-emoji2-1.0.0\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\80c77607a876edb4ca6a6198d8cbb9b1\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\80c77607a876edb4ca6a6198d8cbb9b1\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\80c77607a876edb4ca6a6198d8cbb9b1\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\80c77607a876edb4ca6a6198d8cbb9b1\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\80c77607a876edb4ca6a6198d8cbb9b1\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\80c77607a876edb4ca6a6198d8cbb9b1\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\2423d758b4386eff463e4cbe46bc748b\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\2423d758b4386eff463e4cbe46bc748b\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\2423d758b4386eff463e4cbe46bc748b\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
