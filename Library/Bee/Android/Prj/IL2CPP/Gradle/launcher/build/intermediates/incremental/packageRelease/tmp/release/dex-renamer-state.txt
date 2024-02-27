@@ -1,4 +1,4 @@
-#Mon Feb 19 22:14:12 CST 2024
-base.0=D\:\\Unity\\Proyectos\\Practicas_VR\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+#Mon Feb 26 18:30:48 CST 2024
+base.0=D\:\\git\\Git_Jesus_Fajardo_VR\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

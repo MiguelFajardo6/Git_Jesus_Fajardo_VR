@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Unity\\Proyectos\\Practicas_VR\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-cs\\values-cs.xml",
+            "outputFile": "D:\\git\\Git_Jesus_Fajardo_VR\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-cs\\values-cs.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Phoenix V2\\.gradle\\caches\\transforms-2\\files-2.1\\1de971a63104cd43f0a9d73781737383\\core-1.7.0\\res\\values-cs\\values-cs.xml",

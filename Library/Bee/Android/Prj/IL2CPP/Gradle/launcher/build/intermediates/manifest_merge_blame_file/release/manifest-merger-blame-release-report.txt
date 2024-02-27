@@ -7,58 +7,58 @@
 7
 8    <uses-sdk
 9        android:minSdkVersion="28"
-9-->D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+9-->D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
 10        android:targetSdkVersion="33" />
-10-->D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+10-->D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
 11
 12    <supports-screens
-12-->D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:3-163
+12-->D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:3-163
 13        android:anyDensity="true"
-13-->D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:135-160
+13-->D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:135-160
 14        android:largeScreens="true"
-14-->D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:78-105
+14-->D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:78-105
 15        android:normalScreens="true"
-15-->D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:49-77
+15-->D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:49-77
 16        android:smallScreens="true"
-16-->D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:21-48
+16-->D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:21-48
 17        android:xlargeScreens="true" />
-17-->D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:106-134
+17-->D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:106-134
 18
 19    <uses-feature
-19-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-54
+19-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-54
 20        android:glEsVersion="0x00030000"
-20-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:12:19-51
+20-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:12:19-51
 21        android:required="true" />
 21-->[:GfxPluginCardboard:] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\71234d6412b26af4abb8edbdc52910dc\jetified-GfxPluginCardboard\AndroidManifest.xml:15:9-32
 22    <uses-feature
-22-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-15:36
+22-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-15:36
 23        android:name="android.hardware.vulkan.version"
-23-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:14:9-55
+23-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:14:9-55
 24        android:required="false" />
-24-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:15:9-33
+24-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:15:9-33
 25
 26    <uses-permission android:name="android.permission.INTERNET" />
-26-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:17:5-67
-26-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:17:22-64
+26-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:17:5-67
+26-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:17:22-64
 27
 28    <uses-feature
-28-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:19:5-21:36
+28-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:19:5-21:36
 29        android:name="android.hardware.touchscreen"
-29-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:20:9-52
+29-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:20:9-52
 30        android:required="false" />
-30-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:21:9-33
+30-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:21:9-33
 31    <uses-feature
-31-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:22:5-24:36
+31-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:22:5-24:36
 32        android:name="android.hardware.touchscreen.multitouch"
-32-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:23:9-63
+32-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:23:9-63
 33        android:required="false" />
-33-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:24:9-33
+33-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:24:9-33
 34    <uses-feature
-34-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:25:5-27:36
+34-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:25:5-27:36
 35        android:name="android.hardware.touchscreen.multitouch.distinct"
-35-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:26:9-72
+35-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:26:9-72
 36        android:required="false" />
-36-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:27:9-33
+36-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:27:9-33
 37
 38    <uses-permission android:name="android.permission.CAMERA" />
 38-->[:GfxPluginCardboard:] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\71234d6412b26af4abb8edbdc52910dc\jetified-GfxPluginCardboard\AndroidManifest.xml:17:5-65
@@ -72,88 +72,88 @@
 41    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 42
 43    <application
-43-->D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:3-83
+43-->D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:3-83
 44        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 44-->[androidx.core:core:1.7.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\1de971a63104cd43f0a9d73781737383\core-1.7.0\AndroidManifest.xml:24:18-86
 45        android:extractNativeLibs="true"
-45-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:29:18-50
+45-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:29:18-50
 46        android:icon="@mipmap/app_icon"
-46-->D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:49-80
+46-->D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:49-80
 47        android:label="@string/app_name" >
-47-->D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:16-48
+47-->D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:16-48
 48        <activity
-48-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:30:9-51:20
+48-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:30:9-51:20
 49            android:name="com.unity3d.player.UnityPlayerActivity"
-49-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:31:13-66
+49-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:31:13-66
 50            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
-50-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:32:13-194
+50-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:32:13-194
 51            android:exported="true"
-51-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:33:13-36
+51-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:33:13-36
 52            android:hardwareAccelerated="false"
-52-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:34:13-48
+52-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:34:13-48
 53            android:launchMode="singleTask"
-53-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:35:13-44
+53-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:35:13-44
 54            android:resizeableActivity="false"
-54-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:36:13-47
+54-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:36:13-47
 55            android:screenOrientation="landscape"
-55-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:37:13-50
+55-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:37:13-50
 56            android:theme="@style/UnityThemeSelector" >
-56-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:38:13-54
+56-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:38:13-54
 57            <intent-filter>
-57-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:39:13-43:29
+57-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:39:13-43:29
 58                <action android:name="android.intent.action.MAIN" />
-58-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:40:17-69
-58-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:40:25-66
+58-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:40:17-69
+58-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:40:25-66
 59
 60                <category android:name="android.intent.category.LAUNCHER" />
-60-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:42:17-77
-60-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:42:27-74
+60-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:42:17-77
+60-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:42:27-74
 61            </intent-filter>
 62
 63            <meta-data
-63-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:45:13-47:40
+63-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:45:13-47:40
 64                android:name="unityplayer.UnityActivity"
-64-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:46:17-57
+64-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:46:17-57
 65                android:value="true" />
-65-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:47:17-37
+65-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:47:17-37
 66            <meta-data
-66-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:48:13-50:40
+66-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:48:13-50:40
 67                android:name="android.notch_support"
-67-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:49:17-53
+67-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:49:17-53
 68                android:value="true" />
-68-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:50:17-37
+68-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:50:17-37
 69        </activity>
 70
 71        <meta-data
-71-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:53:9-55:33
+71-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:53:9-55:33
 72            android:name="unity.splash-mode"
-72-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:54:13-45
+72-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:54:13-45
 73            android:value="0" />
-73-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:55:13-30
+73-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:55:13-30
 74        <meta-data
-74-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:56:9-58:36
+74-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:56:9-58:36
 75            android:name="unity.splash-enable"
-75-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:57:13-47
+75-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:57:13-47
 76            android:value="True" />
-76-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:58:13-33
+76-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:58:13-33
 77        <meta-data
-77-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:59:9-61:36
+77-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:59:9-61:36
 78            android:name="unity.launch-fullscreen"
-78-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:60:13-51
+78-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:60:13-51
 79            android:value="True" />
-79-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:61:13-33
+79-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:61:13-33
 80        <meta-data
-80-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:62:9-64:50
+80-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:62:9-64:50
 81            android:name="notch.config"
-81-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:63:13-40
+81-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:63:13-40
 82            android:value="portrait|landscape" />
-82-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:64:13-47
+82-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:64:13-47
 83        <meta-data
-83-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:65:9-67:36
+83-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:65:9-67:36
 84            android:name="unity.auto-report-fully-drawn"
-84-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:66:13-57
+84-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:66:13-57
 85            android:value="true" />
-85-->[:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:67:13-33
+85-->[:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:67:13-33
 86
 87        <activity
 87-->[:GfxPluginCardboard:] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\71234d6412b26af4abb8edbdc52910dc\jetified-GfxPluginCardboard\AndroidManifest.xml:23:9-27:66

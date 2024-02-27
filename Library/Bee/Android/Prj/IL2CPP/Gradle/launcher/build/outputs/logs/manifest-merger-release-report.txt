@@ -1,16 +1,16 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
-INJECTED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
-INJECTED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
-INJECTED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
-MERGED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-70:12
+ADDED from D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+MERGED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-70:12
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\f786bce806bb997d879324651698770e\material-1.6.1\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\1ba045a01f2cbf3a5c8ac3fec8edfbcb\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\e481bbf7e0476bfdadaa0fa10794c033\appcompat-1.4.2\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-vision:20.1.3] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\9903abe2ff1a39cef5b31c82af5f686a\jetified-play-services-vision-20.1.3\AndroidManifest.xml:2:1-9:12
 MERGED from [:GfxPluginCardboard:] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\71234d6412b26af4abb8edbdc52910dc\jetified-GfxPluginCardboard\AndroidManifest.xml:2:1-49:12
-MERGED from [:unityLibrary:xrmanifest.androidlib] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-14:12
+MERGED from [:unityLibrary:xrmanifest.androidlib] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-14:12
 MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\d5e69117ad054be4782895049f34420c\jetified-play-services-vision-common-19.1.3\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\d899865e185d1fe39c14b36a6677b083\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-flags:17.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\af0fb87e74eede655316d2dad224ffd4\jetified-play-services-flags-17.0.0\AndroidManifest.xml:17:1-22:12
@@ -54,43 +54,43 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Phoenix V2\.grad
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\7d9ea0ca030007f47e2ca42049a61fef\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\86d8f1b55e7d51c8b9428178a1e53034\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\b769f41c026b934170e7388efff96d5f\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
-INJECTED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
-INJECTED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
 	package
-		ADDED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:70-121
-		INJECTED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
-		INJECTED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:70-121
+		INJECTED from D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
-		ADDED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
-		INJECTED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+		INJECTED from D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:122-168
+		ADDED from D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:122-168
 	android:versionCode
-		INJECTED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
-		ADDED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
-		INJECTED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+		INJECTED from D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:11-69
 	android:installLocation
-		ADDED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:169-209
+		ADDED from D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:169-209
 supports-screens
-ADDED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:3-163
+ADDED from D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:3-163
 	android:largeScreens
-		ADDED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:78-105
+		ADDED from D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:78-105
 	android:smallScreens
-		ADDED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:21-48
+		ADDED from D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:21-48
 	android:normalScreens
-		ADDED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:49-77
+		ADDED from D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:49-77
 	android:xlargeScreens
-		ADDED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:106-134
+		ADDED from D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:106-134
 	android:anyDensity
-		ADDED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:135-160
+		ADDED from D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:135-160
 application
-ADDED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:3-83
-MERGED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:29:5-68:19
-MERGED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:29:5-68:19
+ADDED from D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:3-83
+MERGED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:29:5-68:19
+MERGED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:29:5-68:19
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\f786bce806bb997d879324651698770e\material-1.6.1\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\f786bce806bb997d879324651698770e\material-1.6.1\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\1ba045a01f2cbf3a5c8ac3fec8edfbcb\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
@@ -99,8 +99,8 @@ MERGED from [com.google.android.gms:play-services-vision:20.1.3] C:\Users\Phoeni
 MERGED from [com.google.android.gms:play-services-vision:20.1.3] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\9903abe2ff1a39cef5b31c82af5f686a\jetified-play-services-vision-20.1.3\AndroidManifest.xml:7:5-20
 MERGED from [:GfxPluginCardboard:] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\71234d6412b26af4abb8edbdc52910dc\jetified-GfxPluginCardboard\AndroidManifest.xml:22:5-47:19
 MERGED from [:GfxPluginCardboard:] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\71234d6412b26af4abb8edbdc52910dc\jetified-GfxPluginCardboard\AndroidManifest.xml:22:5-47:19
-MERGED from [:unityLibrary:xrmanifest.androidlib] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-12:19
-MERGED from [:unityLibrary:xrmanifest.androidlib] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-12:19
+MERGED from [:unityLibrary:xrmanifest.androidlib] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-12:19
+MERGED from [:unityLibrary:xrmanifest.androidlib] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-12:19
 MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\d5e69117ad054be4782895049f34420c\jetified-play-services-vision-common-19.1.3\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\d5e69117ad054be4782895049f34420c\jetified-play-services-vision-common-19.1.3\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\d899865e185d1fe39c14b36a6677b083\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:22:5-20
@@ -124,19 +124,19 @@ MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Phoenix V2\.gr
 MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\eaa07e8b7ccb91ef27e8238fc67607bc\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
 MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\eaa07e8b7ccb91ef27e8238fc67607bc\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
 	android:extractNativeLibs
-		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:29:18-50
+		ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:29:18-50
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.7.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\1de971a63104cd43f0a9d73781737383\core-1.7.0\AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:16-48
+		ADDED from D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:16-48
 	android:icon
-		ADDED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:49-80
+		ADDED from D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:49-80
 uses-sdk
-INJECTED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
-INJECTED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
-MERGED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:8:5-10:41
-MERGED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:8:5-10:41
+INJECTED from D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+INJECTED from D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+MERGED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:8:5-10:41
+MERGED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:8:5-10:41
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\f786bce806bb997d879324651698770e\material-1.6.1\AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\f786bce806bb997d879324651698770e\material-1.6.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\1ba045a01f2cbf3a5c8ac3fec8edfbcb\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
@@ -147,8 +147,8 @@ MERGED from [com.google.android.gms:play-services-vision:20.1.3] C:\Users\Phoeni
 MERGED from [com.google.android.gms:play-services-vision:20.1.3] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\9903abe2ff1a39cef5b31c82af5f686a\jetified-play-services-vision-20.1.3\AndroidManifest.xml:5:5-44
 MERGED from [:GfxPluginCardboard:] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\71234d6412b26af4abb8edbdc52910dc\jetified-GfxPluginCardboard\AndroidManifest.xml:5:5-7:41
 MERGED from [:GfxPluginCardboard:] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\71234d6412b26af4abb8edbdc52910dc\jetified-GfxPluginCardboard\AndroidManifest.xml:5:5-7:41
-MERGED from [:unityLibrary:xrmanifest.androidlib] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:unityLibrary:xrmanifest.androidlib] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:unityLibrary:xrmanifest.androidlib] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:unityLibrary:xrmanifest.androidlib] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\d5e69117ad054be4782895049f34420c\jetified-play-services-vision-common-19.1.3\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\d5e69117ad054be4782895049f34420c\jetified-play-services-vision-common-19.1.3\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\d899865e185d1fe39c14b36a6677b083\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:20:5-44
@@ -235,126 +235,126 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\Phoenix V2\.gradle\caches\tran
 MERGED from [androidx.print:print:1.0.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\86d8f1b55e7d51c8b9428178a1e53034\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\b769f41c026b934170e7388efff96d5f\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\b769f41c026b934170e7388efff96d5f\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
-INJECTED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
-INJECTED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+INJECTED from D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+INJECTED from D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
-		ADDED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
-		INJECTED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
-		ADDED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
-		INJECTED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
 uses-feature#0x00030000
-ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-54
+ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-54
 MERGED from [:GfxPluginCardboard:] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\71234d6412b26af4abb8edbdc52910dc\jetified-GfxPluginCardboard\AndroidManifest.xml:13:5-15:35
 MERGED from [:GfxPluginCardboard:] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\71234d6412b26af4abb8edbdc52910dc\jetified-GfxPluginCardboard\AndroidManifest.xml:13:5-15:35
 	android:glEsVersion
-		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:12:19-51
+		ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:12:19-51
 	android:required
 		ADDED from [:GfxPluginCardboard:] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\71234d6412b26af4abb8edbdc52910dc\jetified-GfxPluginCardboard\AndroidManifest.xml:15:9-32
 uses-feature#android.hardware.vulkan.version
-ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-15:36
+ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-15:36
 	android:required
-		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:15:9-33
+		ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:15:9-33
 	android:name
-		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:14:9-55
+		ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:14:9-55
 uses-permission#android.permission.INTERNET
-ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:17:5-67
+ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:17:5-67
 MERGED from [:GfxPluginCardboard:] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\71234d6412b26af4abb8edbdc52910dc\jetified-GfxPluginCardboard\AndroidManifest.xml:19:5-67
 MERGED from [:GfxPluginCardboard:] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\71234d6412b26af4abb8edbdc52910dc\jetified-GfxPluginCardboard\AndroidManifest.xml:19:5-67
 	android:name
-		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:17:22-64
+		ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:17:22-64
 uses-feature#android.hardware.touchscreen
-ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:19:5-21:36
+ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:19:5-21:36
 	android:required
-		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:21:9-33
+		ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:21:9-33
 	android:name
-		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:20:9-52
+		ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:20:9-52
 uses-feature#android.hardware.touchscreen.multitouch
-ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:22:5-24:36
+ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:22:5-24:36
 	android:required
-		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:24:9-33
+		ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:24:9-33
 	android:name
-		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:23:9-63
+		ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:23:9-63
 uses-feature#android.hardware.touchscreen.multitouch.distinct
-ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:25:5-27:36
+ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:25:5-27:36
 	android:required
-		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:27:9-33
+		ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:27:9-33
 	android:name
-		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:26:9-72
+		ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:26:9-72
 activity#com.unity3d.player.UnityPlayerActivity
-ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:30:9-51:20
-MERGED from [:unityLibrary:xrmanifest.androidlib] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:10:9-11:20
-MERGED from [:unityLibrary:xrmanifest.androidlib] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:10:9-11:20
+ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:30:9-51:20
+MERGED from [:unityLibrary:xrmanifest.androidlib] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:10:9-11:20
+MERGED from [:unityLibrary:xrmanifest.androidlib] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:10:9-11:20
 	android:screenOrientation
-		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:37:13-50
+		ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:37:13-50
 	android:launchMode
-		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:35:13-44
+		ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:35:13-44
 	android:hardwareAccelerated
-		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:34:13-48
+		ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:34:13-48
 	android:exported
-		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:33:13-36
+		ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:33:13-36
 	android:resizeableActivity
-		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:36:13-47
+		ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:36:13-47
 	android:configChanges
-		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:32:13-194
+		ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:32:13-194
 	android:theme
-		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:38:13-54
+		ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:38:13-54
 	android:name
-		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:31:13-66
+		ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:31:13-66
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:39:13-43:29
+ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:39:13-43:29
 action#android.intent.action.MAIN
-ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:40:17-69
+ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:40:17-69
 	android:name
-		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:40:25-66
+		ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:40:25-66
 category#android.intent.category.LAUNCHER
-ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:42:17-77
+ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:42:17-77
 	android:name
-		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:42:27-74
+		ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:42:27-74
 meta-data#unityplayer.UnityActivity
-ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:45:13-47:40
+ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:45:13-47:40
 	android:value
-		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:47:17-37
+		ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:47:17-37
 	android:name
-		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:46:17-57
+		ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:46:17-57
 meta-data#android.notch_support
-ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:48:13-50:40
+ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:48:13-50:40
 	android:value
-		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:50:17-37
+		ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:50:17-37
 	android:name
-		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:49:17-53
+		ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:49:17-53
 meta-data#unity.splash-mode
-ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:53:9-55:33
+ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:53:9-55:33
 	android:value
-		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:55:13-30
+		ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:55:13-30
 	android:name
-		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:54:13-45
+		ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:54:13-45
 meta-data#unity.splash-enable
-ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:56:9-58:36
+ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:56:9-58:36
 	android:value
-		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:58:13-33
+		ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:58:13-33
 	android:name
-		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:57:13-47
+		ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:57:13-47
 meta-data#unity.launch-fullscreen
-ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:59:9-61:36
+ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:59:9-61:36
 	android:value
-		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:61:13-33
+		ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:61:13-33
 	android:name
-		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:60:13-51
+		ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:60:13-51
 meta-data#notch.config
-ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:62:9-64:50
+ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:62:9-64:50
 	android:value
-		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:64:13-47
+		ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:64:13-47
 	android:name
-		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:63:13-40
+		ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:63:13-40
 meta-data#unity.auto-report-fully-drawn
-ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:65:9-67:36
+ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:65:9-67:36
 	android:value
-		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:67:13-33
+		ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:67:13-33
 	android:name
-		ADDED from [:unityLibrary] D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:66:13-57
+		ADDED from [:unityLibrary] D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:66:13-57
 uses-permission#android.permission.CAMERA
 ADDED from [:GfxPluginCardboard:] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\71234d6412b26af4abb8edbdc52910dc\jetified-GfxPluginCardboard\AndroidManifest.xml:17:5-65
 	android:name
@@ -400,7 +400,7 @@ ADDED from [:GfxPluginCardboard:] C:\Users\Phoenix V2\.gradle\caches\transforms-
 	android:scheme
 		ADDED from [:GfxPluginCardboard:] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\71234d6412b26af4abb8edbdc52910dc\jetified-GfxPluginCardboard\AndroidManifest.xml:44:23-49
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from D:\Unity\Proyectos\Practicas_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12 reason: com.google.cardboard.sdk requested WRITE_EXTERNAL_STORAGE
+IMPLIED from D:\git\Git_Jesus_Fajardo_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12 reason: com.google.cardboard.sdk requested WRITE_EXTERNAL_STORAGE
 activity#com.google.android.gms.common.api.GoogleApiActivity
 ADDED from [com.google.android.gms:play-services-base:17.4.0] C:\Users\Phoenix V2\.gradle\caches\transforms-2\files-2.1\0d2a4aaefdfbea34610a09dad8813b1b\jetified-play-services-base-17.4.0\AndroidManifest.xml:23:9-26:75
 	android:exported
