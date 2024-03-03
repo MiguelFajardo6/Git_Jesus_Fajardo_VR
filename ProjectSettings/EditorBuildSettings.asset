@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Practica2_Jesus_Fajardo.unity
-    guid: 1b4c512d650dd3948abfd235eb2c6557
+    path: Assets/Scenes/Practica3_Jesus_Fajardo.unity
+    guid: b71e937f6ce0e8a4f848fc0cf6990fd9
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: cb31eb9b56254dc4bbddfef110b9959f, type: 2}

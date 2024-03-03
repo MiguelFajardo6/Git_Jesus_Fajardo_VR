@@ -66,7 +66,25 @@ extern void U3CStartXRU3Ed__10_System_Collections_Generic_IEnumeratorU3CSystem_O
 extern void U3CStartXRU3Ed__10_System_Collections_IEnumerator_Reset_mD99AEFDB38CFAC11731CDB371647891816288600 (void);
 // 0x0000001B System.Object VrModeController/<StartXR>d__10::System.Collections.IEnumerator.get_Current()
 extern void U3CStartXRU3Ed__10_System_Collections_IEnumerator_get_Current_mD84D9ACDB0A04C619509BA51590975DB84C30B0F (void);
-static Il2CppMethodPointer s_methodPointers[27] = 
+// 0x0000001C System.Void Practica3::Start()
+extern void Practica3_Start_m4A9673E770878B14DE1C4E8103F89AB403FE531F (void);
+// 0x0000001D System.Collections.IEnumerator Practica3::MaquinaEstados()
+extern void Practica3_MaquinaEstados_mC48B50891049974747D14C09F686EA4EC706532F (void);
+// 0x0000001E System.Void Practica3::.ctor()
+extern void Practica3__ctor_m7CA4FA0CFF30B018C2563F61410F6F7D6027011B (void);
+// 0x0000001F System.Void Practica3/<MaquinaEstados>d__7::.ctor(System.Int32)
+extern void U3CMaquinaEstadosU3Ed__7__ctor_m23134262549D400F55A4685DBA2FB578F719EF56 (void);
+// 0x00000020 System.Void Practica3/<MaquinaEstados>d__7::System.IDisposable.Dispose()
+extern void U3CMaquinaEstadosU3Ed__7_System_IDisposable_Dispose_m48DBB213A3B0029A4182000AA34F74705523E527 (void);
+// 0x00000021 System.Boolean Practica3/<MaquinaEstados>d__7::MoveNext()
+extern void U3CMaquinaEstadosU3Ed__7_MoveNext_m47B24139031C2E34F22306049C1F312CA2A3D300 (void);
+// 0x00000022 System.Object Practica3/<MaquinaEstados>d__7::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+extern void U3CMaquinaEstadosU3Ed__7_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m472D44A839C2CE46BB44EB25B189994520874708 (void);
+// 0x00000023 System.Void Practica3/<MaquinaEstados>d__7::System.Collections.IEnumerator.Reset()
+extern void U3CMaquinaEstadosU3Ed__7_System_Collections_IEnumerator_Reset_m8DE217E0DA77ACC5955104121FC655F75C506DDC (void);
+// 0x00000024 System.Object Practica3/<MaquinaEstados>d__7::System.Collections.IEnumerator.get_Current()
+extern void U3CMaquinaEstadosU3Ed__7_System_Collections_IEnumerator_get_Current_m1E7A115A64A2F64174EB9EB664D057AE248D0092 (void);
+static Il2CppMethodPointer s_methodPointers[36] = 
 {
 	CameraPointer_Update_mF19D284A593E4627CD4F22A58C11FB87B6627FF4,
 	CameraPointer__ctor_m5C4B443EB7C8A518306BF27BD947D938FDF5162D,
@@ -95,42 +113,60 @@ static Il2CppMethodPointer s_methodPointers[27] =
 	U3CStartXRU3Ed__10_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mD0B4CE8CBE980FD132B19F40FF2172502B1D0566,
 	U3CStartXRU3Ed__10_System_Collections_IEnumerator_Reset_mD99AEFDB38CFAC11731CDB371647891816288600,
 	U3CStartXRU3Ed__10_System_Collections_IEnumerator_get_Current_mD84D9ACDB0A04C619509BA51590975DB84C30B0F,
+	Practica3_Start_m4A9673E770878B14DE1C4E8103F89AB403FE531F,
+	Practica3_MaquinaEstados_mC48B50891049974747D14C09F686EA4EC706532F,
+	Practica3__ctor_m7CA4FA0CFF30B018C2563F61410F6F7D6027011B,
+	U3CMaquinaEstadosU3Ed__7__ctor_m23134262549D400F55A4685DBA2FB578F719EF56,
+	U3CMaquinaEstadosU3Ed__7_System_IDisposable_Dispose_m48DBB213A3B0029A4182000AA34F74705523E527,
+	U3CMaquinaEstadosU3Ed__7_MoveNext_m47B24139031C2E34F22306049C1F312CA2A3D300,
+	U3CMaquinaEstadosU3Ed__7_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m472D44A839C2CE46BB44EB25B189994520874708,
+	U3CMaquinaEstadosU3Ed__7_System_Collections_IEnumerator_Reset_m8DE217E0DA77ACC5955104121FC655F75C506DDC,
+	U3CMaquinaEstadosU3Ed__7_System_Collections_IEnumerator_get_Current_m1E7A115A64A2F64174EB9EB664D057AE248D0092,
 };
-static const int32_t s_InvokerIndices[27] = 
+static const int32_t s_InvokerIndices[36] = 
 {
-	1072,
-	1072,
-	1072,
-	1072,
-	1072,
-	1072,
-	1072,
-	1072,
-	1072,
-	1072,
-	902,
-	1072,
-	1022,
-	1022,
-	1072,
-	1072,
-	1072,
-	1072,
-	1046,
-	1072,
-	1072,
-	919,
-	1072,
-	1022,
-	1046,
-	1072,
-	1046,
+	1059,
+	1059,
+	1059,
+	1059,
+	1059,
+	1059,
+	1059,
+	1059,
+	1059,
+	1059,
+	889,
+	1059,
+	1009,
+	1009,
+	1059,
+	1059,
+	1059,
+	1059,
+	1033,
+	1059,
+	1059,
+	906,
+	1059,
+	1009,
+	1033,
+	1059,
+	1033,
+	1059,
+	1033,
+	1059,
+	906,
+	1059,
+	1009,
+	1033,
+	1059,
+	1033,
 };
 IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
 const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
 {
 	"Assembly-CSharp.dll",
-	27,
+	36,
 	s_methodPointers,
 	0,
 	NULL,

@@ -2,6 +2,7 @@ ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
     - CameraPointer
+    - Practica3
     Google.XR.Cardboard.dll:
     - Google.XR.Cardboard.XRLoader
     Unity.Rider.Editor.dll:
@@ -14,8 +15,10 @@ ScriptsOnlyBuild:
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
     - UnityEditor.Graphs.AnimationStateMachine.Graph
     - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.StateNode
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
@@ -26,7 +29,7 @@ ScriptsOnlyBuild:
   serializedClasses: {}
   methodsToPreserve: []
   sceneClasses:
-    Assets/Scenes/Practica2_Jesus_Fajardo.unity:
+    Assets/Scenes/Practica3_Jesus_Fajardo.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -45,13 +48,9 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 48
       Script: {instanceID: 0}
-    - Class: 74
-      Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
-    - Class: 91
-      Script: {instanceID: 0}
-    - Class: 95
+    - Class: 89
       Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
@@ -60,7 +59,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 16024}
     - Class: 114
-      Script: {instanceID: 21588}
+      Script: {instanceID: 20664}
+    - Class: 114
+      Script: {instanceID: 21590}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
@@ -716,6 +717,12 @@ ScriptsOnlyBuild:
     className: BeforeAfterTestCommandState
   - hash:
       serializedVersion: 2
+      Hash: e7b23b17ec213064d7c87813114e4d4b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Practica3
+  - hash:
+      serializedVersion: 2
       Hash: 33351225ad07d388c6f33d76ccfe9ba6
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
@@ -926,5 +933,5 @@ ScriptsOnlyBuild:
     className: UnityOnSliderValueChangedMessageListener
   platform: 13
   scenePathNames:
-  - Assets/Scenes/Practica2_Jesus_Fajardo.unity
-  playerPath: D:/git/Git_Jesus_Fajardo_VR/Build/Practica2_Jesus_Fajardo.apk
+  - Assets/Scenes/Practica3_Jesus_Fajardo.unity
+  playerPath: D:/git/Git_Jesus_Fajardo_VR/Build/Practica3_Jesus_Fajardo.apk
